@@ -16,11 +16,11 @@ Projeto criado para fixação de conceitos aprendidos no módulo avançado de JS
 ## Design Desktop
 
 <div align="center">
-    <img src="./src/images/design/print_desktop.png" alt="desktop">
+    <img src="./src/images/design/print_desktop.png" alt="desktop_print">
 </div>
 
 ## Design Mobile
 
 <div align="center">
-    <img src="./src/images/design/print_mobile.png" alt="mobile">
+    <img src="./src/images/design/print_mobile.png" alt="mobile_print">
 </div>
